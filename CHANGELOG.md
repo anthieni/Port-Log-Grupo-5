@@ -1,3 +1,11 @@
+## [Ejercicio Nro 06]
+
+- Duración promedio en muelle de buques infractores.
+- Tipo de carga más frecuente.
+- Origen más frecuente de buques infractores.
+- Porcentaje de infracciones con fecha inválida.
+- Porcentaje de infracciones con hora inválida
+
 ## [Ejercicio Nro 05]
 
 - Gráfico de barras horizontales exceso de velocidad promedio.
