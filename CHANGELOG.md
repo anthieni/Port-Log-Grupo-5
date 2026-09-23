@@ -1,3 +1,12 @@
+## [Ejercicio Nro 05]
+
+- Gráfico de barras horizontales exceso de velocidad promedio.
+- Gráfico de barras simples, comparación de infracciones con fechas válidas e inválidas.
+- Gráfico de barras horizontales.
+- Histograma de exceso de velocidad.
+- Gráfico de barras verticales.
+- Gráfico de tortas.
+
 ## [Ejercicio Nro 04]
 
 - Definir la clase PortAnalizer
