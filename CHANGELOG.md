@@ -1,3 +1,9 @@
+## [Ejercicio Nro 01]
+
+- Agregado de las librerias a utilizar.
+- Descargamos los archivos.
+- Validamos los archivos del Sprint 1
+
 # Sprint 2
 
 ## [Ejercicio Nro 07]
