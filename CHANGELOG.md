@@ -1,3 +1,11 @@
+## [Ejercicio Nro 04]
+
+- Implementación de OCR con EasyOCR para extracción de matrículas.
+- Desarrollo de algoritmo de matching usando expresiones regulares.
+- Cruce de datos entre matrículas extraídas y el dataset limpio del Sprint 1.
+- Actualización del DataFrame con las imágenes, textos OCR y ratios de coincidencia.
+- Exportación del dataset procesado a port_log/data/processed/port_movements_image.csv.
+
 ## [Ejercicio Nro 03]
 
 - Conversión de todas las imágenes a escala de grises.
