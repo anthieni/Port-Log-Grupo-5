@@ -1,3 +1,11 @@
+## [Ejercicio Nro 05]
+
+- Cálculo de métricas finales sobre el dataset procesado.
+- Conteo de infracciones con y sin imagen asociada.
+- Cálculo de imágenes sin match y ratio promedio de coincidencia.
+- Análisis de tasa de éxito por grupo (plates vs completes).
+- Cuantificación de infracciones pendientes sin evidencia visual.
+
 ## [Ejercicio Nro 04]
 
 - Implementación de OCR con EasyOCR para extracción de matrículas.
