@@ -1,3 +1,9 @@
+## [Ejercicio Nro 06]
+
+- Diagnóstico de brillo, nitidez y área de las imágenes con y sin match.
+- Redacción de la conclusión sobre la relación entre datos tabulares e imágenes.
+- Propuestas de mejora para la captura y el algoritmo de matching.
+
 ## [Ejercicio Nro 05]
 
 - Cálculo de métricas finales sobre el dataset procesado.
