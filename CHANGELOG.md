@@ -1,3 +1,11 @@
+## [Ejercicio Nro 03]
+
+- Conversión de todas las imágenes a escala de grises.
+- Aplicación de ecualización de histograma para mejorar el contraste.
+- Aplicación de suavizado (Blur Gaussiano) a las imágenes ecualizadas.
+- Detección de bordes mediante el algoritmo de Canny.
+- Guardado de las imágenes preprocesadas en sus respectivos directorios interim.
+
 ## [Ejercicio Nro 02]
 
 - Analizamos las Imagenes del archivo.
