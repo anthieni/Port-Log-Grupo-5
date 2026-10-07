@@ -1,3 +1,9 @@
+## [Ejercicio Nro 02]
+
+- Analizamos las Imagenes del archivo.
+- Armamos grupos de imagenes
+- Generamos la función para mostrar las imagenes aletariamente
+
 ## [Ejercicio Nro 01]
 
 - Agregado de las librerias a utilizar.
