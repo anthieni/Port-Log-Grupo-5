@@ -1,3 +1,8 @@
+## [Ejercicio Nro 04]
+
+- Definir la clase PortAnalizer
+- Implementación de métodos.
+
 ## [Ejercicio Nro 03]
 
 - Exportar el resumen estadístico.
