@@ -1,3 +1,9 @@
+## [Ejercicio Nro 02 - Sprint 2]
+
+- Analizamos las Imagenes del archivo.
+- Armamos grupos de imagenes
+- Generamos la función para mostrar las imagenes aletariamente
+
 ## [Ejercicio Nro 01 - Sprint 2]
 
 - Creación reproducible de Sprint_2 partiendo explícitamente de Sprint_1.
