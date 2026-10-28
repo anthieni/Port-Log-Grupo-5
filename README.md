@@ -19,3 +19,24 @@ Descargar el dataset [port_movements](https://raw.githubusercontent.com/HAD141/d
 `https://raw.githubusercontent.com/HAD141/datasets/refs/heads/main/TrabajosPracticos/port_log/port_movements.csv`
 
 ---
+
+<!-- SPRINT_2_START -->
+## Sprint 2 - Tratamiento de imágenes y validación visual
+
+### Objetivo
+Relacionar las imágenes capturadas por el sistema portuario con las infracciones procesadas en Sprint 1 para identificar qué registros poseen evidencia visual válida.
+
+### Flujo de trabajo
+1. Descargar y clasificar las imágenes en `plates` y `completes`.
+2. Analizar resolución, área y tamaño de los grupos.
+3. Preprocesar las imágenes: escala de grises, ecualización, suavizado y Canny.
+4. Ejecutar OCR sobre imágenes ecualizadas, conservando Canny como producto de análisis de bordes.
+5. Asociar imágenes e infracciones mediante matching uno-a-uno con umbral mínimo del 75 %.
+6. Calcular métricas y diagnosticar las condiciones que afectan el reconocimiento.
+
+### Estructura utilizada
+- `port_log/data/raw/`: datos e imágenes originales.
+- `port_log/data/interim/`: resultados intermedios y `group_images.json`.
+- `port_log/data/processed/`: dataset final con asociaciones de imágenes.
+- `port_log/reports/`: reportes del proyecto.
+<!-- SPRINT_2_END -->

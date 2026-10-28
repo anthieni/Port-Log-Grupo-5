@@ -1,3 +1,11 @@
+## [Ejercicio Nro 01 - Sprint 2]
+
+- Creación reproducible de Sprint_2 partiendo explícitamente de Sprint_1.
+- Uso de la carpeta raíz port_log/ en todas las rutas del proyecto.
+- Descarga y descompresión del dataset en port_log/data/raw/imgs.
+- Validación de los tres archivos heredados del Sprint 1.
+- Actualización idempotente del README.md con objetivo, flujo y estructura del Sprint 2.
+
 ## [Ejercicio Nro 07]
 
 - Se evaluó la calidad del dataset heredado.
@@ -59,5 +67,4 @@
 
 - Agregado de las librerias a utilizar.
 - Crear los directorios si no existen.
-
 
