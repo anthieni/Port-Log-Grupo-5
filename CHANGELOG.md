@@ -1,3 +1,21 @@
+## [Ejercicio Nro 03]
+
+- Exportar el resumen estadístico.
+- Guardar el Dataset limpio.
+- Filas sin infracción.
+- Exceso de velocidad mas el 5%.
+- Cálculo de exceso de velocidad.
+- Eliminación de Outliers en tonelaje.
+- Eliminación de nulos en columnas críticas.
+- Normalización de muelles.
+- Normalización de las matrículas de los buques.
+- Eliminación de caracteres especiales y conversión a mayúsculas.
+- Cálculo y agregado de la columna duracion_horas.
+- Determinación del tiempo transcurrido entre la fecha y hora de ingreso y la fecha y hora de egreso.
+- Normalización de las horas de ingreso y egreso al formato de 24 horas.
+- Identificación de horas inválidas.
+- Utilizando Pandas, normalización de las fechas de ingreso y egreso.
+
 ## [Ejercicio Nro 02]
 
 - Agregado de las librerias a utilizar.
