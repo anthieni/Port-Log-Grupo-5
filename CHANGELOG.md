@@ -1,3 +1,10 @@
+## [Ejercicio Nro 06 - Sprint 2]
+
+- Diagnóstico de brillo, nitidez y área de las imágenes originales.
+- Cálculo dinámico de los indicadores utilizados en la conclusión.
+- Eliminación de valores hardcodeados de ejecuciones anteriores.
+- Preparación de un resumen reproducible para redactar la conclusión final.
+
 ## [Ejercicio Nro 05 - Sprint 2]
 
 - Cálculo de métricas finales sobre el dataset procesado.
