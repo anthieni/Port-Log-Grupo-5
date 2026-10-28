@@ -1,3 +1,11 @@
+## [Ejercicio Nro 07]
+
+- Se evaluó la calidad del dataset heredado.
+- Se analizaron los principales patrones de infracción.
+- Se evaluó el impacto de utilizar datos sin limpieza previa.
+- Se propusieron mejoras para la captura y validación de datos.
+- Se generó el informe final en port_log/reports/conclusion.md.
+
 ## [Ejercicio Nro 06]
 
 - Duración promedio en muelle de buques infractores.
