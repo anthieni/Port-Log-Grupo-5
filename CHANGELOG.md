@@ -1,3 +1,9 @@
+## [Ejercicios 06 a 08]
+- Se implementaron las consultas SQLAlchemy solicitadas.
+- Radares más activos informa cantidad de muelles distintos e infracciones.
+- Se creó la base vectorial con OpenCLIP y ChromaDB.
+- Se implementó la búsqueda visual con umbral de similitud y advertencia.
+
 ## [Ejercicios 03 a 05]
 - Se ajustó el modelo para considerar al radar como móvil.
 - Se implementaron los modelos relacionales con SQLAlchemy.
