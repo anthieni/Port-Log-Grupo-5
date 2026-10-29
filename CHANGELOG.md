@@ -1,3 +1,6 @@
+## [Ejercicio 02 - imágenes]
+- Se versionaron las imágenes originales mediante DVC y Supabase S3.
+
 ## [Ejercicio 01]
 - Se creó Sprint_3 a partir de Sprint_2.
 - Se validaron los datasets heredados de los sprints anteriores.
