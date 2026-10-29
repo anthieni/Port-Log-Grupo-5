@@ -1,3 +1,8 @@
+## [Ejercicios 03 a 05]
+- Se ajustó el modelo para considerar al radar como móvil.
+- Se implementaron los modelos relacionales con SQLAlchemy.
+- Se creó y pobló la base PostgreSQL en Supabase.
+
 ## [Ejercicio 02 - dataset final]
 - Se versionó port_movements_image.csv con DVC por ser el output principal del pipeline.
 - Se configuró Supabase S3 como almacenamiento remoto de DVC.
