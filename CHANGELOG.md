@@ -1,3 +1,7 @@
+## [Ejercicio 09]
+- Se redactó la conclusión integradora de los tres sprints.
+- Se documentaron limitaciones y mejoras para un escenario productivo.
+
 ## [Ejercicios 06 a 08]
 - Se implementaron las consultas SQLAlchemy solicitadas.
 - Radares más activos informa cantidad de muelles distintos e infracciones.
