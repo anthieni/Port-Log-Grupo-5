@@ -1,3 +1,6 @@
+## [Ejercicio 02 - gráficos]
+- Se versionaron los gráficos intermedios mediante DVC.
+
 ## [Ejercicio 02 - imágenes]
 - Se versionaron las imágenes originales mediante DVC y Supabase S3.
 
