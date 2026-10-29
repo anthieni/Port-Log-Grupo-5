@@ -1,3 +1,7 @@
+## [Ejercicio 02 - dataset final]
+- Se versionó port_movements_image.csv con DVC por ser el output principal del pipeline.
+- Se configuró Supabase S3 como almacenamiento remoto de DVC.
+
 ## [Ejercicio 02 - gráficos]
 - Se versionaron los gráficos intermedios mediante DVC.
 
