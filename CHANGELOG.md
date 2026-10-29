@@ -1,3 +1,8 @@
+## [Ejercicio 01]
+- Se creó Sprint_3 a partir de Sprint_2.
+- Se validaron los datasets heredados de los sprints anteriores.
+- Se actualizó README con el alcance del Sprint 3.
+
 ## [Ejercicio Nro 06 - Sprint 2]
 
 - Diagnóstico de brillo, nitidez y área de las imágenes originales.

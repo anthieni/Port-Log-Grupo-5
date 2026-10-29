@@ -40,3 +40,17 @@ Relacionar las imágenes capturadas por el sistema portuario con las infraccione
 - `port_log/data/processed/`: dataset final con asociaciones de imágenes.
 - `port_log/reports/`: reportes del proyecto.
 <!-- SPRINT_2_END -->
+
+<!-- SPRINT_3_START -->
+## Sprint 3
+
+En este sprint se incorpora persistencia relacional con PostgreSQL/Supabase,
+versionado de datos con DVC y búsqueda visual de buques con OpenCLIP y ChromaDB.
+
+El modelo considera al radar como un dispositivo móvil: un movimiento ocurre
+en un único muelle y un mismo radar puede registrar movimientos en distintos
+muelles.
+
+Los archivos pesados y el dataset procesado final se versionan con DVC,
+mientras que Git mantiene código, documentación y archivos `.dvc`.
+<!-- SPRINT_3_END -->
